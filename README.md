@@ -1,1 +1,1 @@
-## Guthub username searcher
+## React github username searcher
