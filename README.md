@@ -1,1 +1,1 @@
-# github-username-searcher
+## Guthub username searcher
